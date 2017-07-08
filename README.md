@@ -1,1 +1,1 @@
-*Hi
+Please use grunt connect:yoyoserver:keepalive to run the server and connect to localhost:9001 
